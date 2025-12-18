@@ -1,7 +1,7 @@
 # JQuery My Image Slider
 
 > Original Repos:   
-> - JQuery My Image Slider: https://github.com/a19836/jquerymyimageslider/   
+> - JQuery My Image Slider: https://github.com/a19836/jquery-image-slider/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
